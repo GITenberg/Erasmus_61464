@@ -1,0 +1,34 @@
+_repo: Erasmus_61464
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jebb, R. C. (Richard Claverhouse)
+    aliases:
+    - Jebb, Richard Claverhouse, Sir
+    - Jebb, Richard Claverhouse
+    birthdate: 1841
+    deathdate: 1905
+    gutenberg_agent_id: '51441'
+    url: http://www.gutenberg.org/2009/agents/51441
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Claverhouse_Jebb
+description: ''
+gutenberg_issued: '2020-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61464'
+  lccn: '01025127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Rede lectures; 1890.
+subjects:
+- !lcsh 'Erasmus, Desiderius, -1536'
+- !lcsh 'Authors, Latin (Medieval and modern) -- Netherlands -- Biography'
+- !lcsh 'Humanism -- Netherlands -- History -- 16th century'
+- !lcc 'PA'
+- !lcsh 'Netherlands -- Intellectual life -- 16th century'
+- !lcsh 'Humanists -- Netherlands -- Biography'
+- GITenberg
+title: Erasmus
+url: http://www.gutenberg.org/ebooks/61464
